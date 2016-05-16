@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/atis--/imsi-grok/issues"
   },
-  "homepage": "https://github.com/atis--/imsi-grok#readme"
+  "homepage": "https://github.com/atis--/imsi-grok#readme",
+  "dependencies": {
+    "mccmnc.json": "^1.1.0"
+  }
 }
