@@ -1,0 +1,22 @@
+{
+  "name": "imsi-grok",
+  "version": "1.0.0",
+  "description": "Analyze IMSI (international mobile subscriber identity) number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/atis--/imsi-grok.git"
+  },
+  "keywords": [
+    "IMSI"
+  ],
+  "author": "Atis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atis--/imsi-grok/issues"
+  },
+  "homepage": "https://github.com/atis--/imsi-grok#readme"
+}
